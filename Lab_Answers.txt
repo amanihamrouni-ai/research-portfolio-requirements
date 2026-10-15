@@ -41,3 +41,10 @@ PART 2: DATA ANALYST SKILLS CHECKLIST
 | Critical Thinking | Basic |
 
 My goal is to improve these skills through coursework and practical projects.
+PART 3: SETTING UP A GITHUB REPOSITORY
+
+Step 1: Explore GitHub
+
+Question 1: What types of accounts (products) are available on GitHub?
+
+There are three types of accounts on GitHub. Personal accounts, Organization accounts, and Enterprise accounts.
