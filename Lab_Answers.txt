@@ -1,0 +1,43 @@
+Lab - Research Portfolio Requirements
+
+PART 1: RESEARCH DATA ANALYST PORTFOLIOS
+
+Step 2: List Possible Projects
+
+1. Sales Data Analysis: Analyze sales trends and identify best-selling products.
+2. Customer Analysis: Study customer behavior and purchasing patterns.
+3. Financial Data Analysis: Analyze income, expenses, and financial trends.
+4. Sports Data Analysis: Compare football teams and player statistics.
+5. Online Retail Analysis: Identify popular products and customer trends.
+
+Step 3: Portfolio Style
+
+I would like to create a professional online portfolio with a simple layout. It will include an introduction, my skills, projects, charts, visualizations, and conclusions. I will use GitHub to organize and share my work.
+
+Step 4: Portfolio Checklist
+
+- Professional introduction
+- Updated CV
+- Technical skills
+- Data analysis projects
+- SQL projects
+- Python projects
+- Excel projects
+- Data visualizations
+- Project conclusions
+- GitHub repository
+
+PART 2: DATA ANALYST SKILLS CHECKLIST
+
+| Skill | Current Level |
+| Excel | Basic |
+| SQL | Basic |
+| Python | Basic |
+| Statistics | Basic |
+| Data Cleaning | Basic |
+| Data Visualization | Basic |
+| Power BI / Tableau | None |
+| Communication | Basic |
+| Critical Thinking | Basic |
+
+My goal is to improve these skills through coursework and practical projects.
