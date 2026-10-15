@@ -48,3 +48,6 @@ Step 1: Explore GitHub
 Question 1: What types of accounts (products) are available on GitHub?
 
 There are three types of accounts on GitHub. Personal accounts, Organization accounts, and Enterprise accounts.
+Question 2: What can you do with a personal account?
+
+Your personal account can own resources such as repositories, packages, and projects. Any time you take any action on GitHub.com, such as creating an issue or reviewing a pull request, the action is attributed to your personal account.
